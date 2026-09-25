@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "HowToUseAternos",
+    "username": "24SevenServerBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "HowTodo247.aternos.me",
-    "port": 33211,
+    "ip": "darkcore-fyN0.aternos.me",
+    "port": 54811,
     "version": "",
     "try-creative": false
   },
